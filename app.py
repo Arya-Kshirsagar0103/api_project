@@ -17,7 +17,7 @@ client = get_stock_client()
 
 # Add the title to webpage
 st.title("Stock Market Project")
-st.subheader("by Utkarsh Gaikwad")
+st.subheader("by Arya Kshirsagar")
 
 # Take company name as input from user
 company = st.text_input("Please enter company name : ")
